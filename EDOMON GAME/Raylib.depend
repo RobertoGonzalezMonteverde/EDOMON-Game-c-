@@ -1,0 +1,2021 @@
+# depslib dependency file v1.0
+1519141807 source:c:\users\pau.fernandez\desktop\raylib\main.cpp
+	"raylib.h"
+	"pilota.h"
+
+1495184724 c:\raylib\mingw\include\raylib.h
+
+1519141815 c:\users\pau.fernandez\desktop\raylib\pilota.h
+
+1519744965 source:c:\users\pau.fernandez\desktop\sessiÛ2\mario.cpp
+	"raylib.h"
+	"mario.h"
+
+1519744554 c:\users\pau.fernandez\desktop\sessiÛ2\mario.h
+
+1519740615 source:c:\users\pau.fernandez\desktop\sessiÛ2\pilota.cpp
+	"raylib.h"
+	"pilota.h"
+
+1519740615 c:\users\pau.fernandez\desktop\sessiÛ2\pilota.h
+
+1519744123 source:c:\users\pau.fernandez\desktop\sessiÛ2\main.cpp
+	"raylib.h"
+	"pilota.h"
+	"mario.h"
+
+1520953685 source:c:\users\pau.fernandez\desktop\sessio2\main.cpp
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1520950119 c:\users\pau.fernandez\desktop\sessio2\pilota.h
+
+1520953088 c:\users\pau.fernandez\desktop\sessio2\mario.h
+
+1520955708 source:c:\users\pau.fernandez\desktop\sessio2\mario.cpp
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1519740615 source:c:\users\pau.fernandez\desktop\sessio2\pilota.cpp
+	"raylib.h"
+	"pilota.h"
+
+1520955043 source:c:\users\pau.fernandez\desktop\sessio2\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1520954810 c:\users\pau.fernandez\desktop\sessio2\plataforma.h
+
+1521727791 source:c:\users\pau.fernandez\desktop\edoo\sessio3\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1521727791 c:\users\pau.fernandez\desktop\edoo\sessio3\plataforma.h
+
+1521733178 source:c:\users\pau.fernandez\desktop\edoo\sessio3\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1521731865 c:\users\pau.fernandez\desktop\edoo\sessio3\mario.h
+
+1521733239 source:c:\users\pau.fernandez\desktop\edoo\sessio3\main.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522941949 source:c:\users\pau.fernandez\desktop\edoo\sessio4\main.cpp
+	<fstream>
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522942999 c:\users\pau.fernandez\desktop\edoo\sessio4\plataforma.h
+
+1522937493 c:\users\pau.fernandez\desktop\edoo\sessio4\mario.h
+
+1522937493 source:c:\users\pau.fernandez\desktop\edoo\sessio4\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522943142 source:c:\users\pau.fernandez\desktop\edoo\sessio4\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1522943142 source:c:\users\roberto\desktop\mariogros\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1522942999 c:\users\roberto\desktop\mariogros\plataforma.h
+
+1559610065 source:c:\users\roberto\desktop\mariogros\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1522937493 c:\users\roberto\desktop\mariogros\mario.h
+
+1522937493 source:c:\users\roberto\desktop\mariogros\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1559610270 c:\users\roberto\desktop\mariogros\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559489908 c:\users\roberto\desktop\mariogros\punt2d.h
+
+1559606958 c:\users\roberto\desktop\mariogros\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559491976 c:\users\roberto\desktop\mariogros\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559491976 c:\users\roberto\desktop\mariogros\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559491976 c:\users\roberto\desktop\mariogros\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559491976 c:\users\roberto\desktop\mariogros\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559610065 c:\users\roberto\desktop\mariogros\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559491976 c:\users\roberto\desktop\mariogros\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559491976 c:\users\roberto\desktop\mariogros\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559491976 c:\users\roberto\desktop\mariogros\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559610065 c:\users\roberto\desktop\mariogros\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559491976 c:\users\roberto\desktop\mariogros\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559610065 c:\users\roberto\desktop\mariogros\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559492050 c:\users\roberto\desktop\mariogros\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559610065 c:\users\roberto\desktop\mariogros\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559492050 c:\users\roberto\desktop\mariogros\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559606958 source:c:\users\roberto\desktop\mariogros\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559490607 source:c:\users\roberto\desktop\mariogros\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559490611 source:c:\users\roberto\desktop\mariogros\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559490624 source:c:\users\roberto\desktop\mariogros\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559490629 source:c:\users\roberto\desktop\mariogros\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559490645 source:c:\users\roberto\desktop\mariogros\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559490649 source:c:\users\roberto\desktop\mariogros\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559490784 source:c:\users\roberto\desktop\mariogros\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559490874 source:c:\users\roberto\desktop\mariogros\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559610117 source:c:\users\roberto\desktop\mariogros\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559610270 source:c:\users\roberto\desktop\mariogros\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+
+1559610270 source:c:\users\roberto\desktop\mariogros\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559610270 source:c:\users\roberto\desktop\mariogros\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559492050 source:c:\users\roberto\desktop\mariogros\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559492050 source:c:\users\roberto\desktop\mariogros\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559610270 source:c:\users\roberto\desktop\mariogros\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559588518 source:c:\users\arnau\desktop\edomon b…\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\arnau\desktop\edomon b…\edomon b…\punt2d.h
+
+1559588672 c:\users\arnau\desktop\edomon b…\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\arnau\desktop\edomon b…\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559585360 source:c:\users\arnau\desktop\edomon b…\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559469026 source:c:\users\arnau\desktop\edomon b…\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469008 source:c:\users\arnau\desktop\edomon b…\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469012 source:c:\users\arnau\desktop\edomon b…\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469030 source:c:\users\arnau\desktop\edomon b…\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559588672 source:c:\users\arnau\desktop\edomon b…\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+
+1559588466 c:\users\arnau\desktop\edomon b…\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon b…\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469046 source:c:\users\arnau\desktop\edomon b…\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\arnau\desktop\edomon b…\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559588466 source:c:\users\arnau\desktop\edomon b…\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1559470378 c:\users\arnau\desktop\edomon b…\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559588466 c:\users\arnau\desktop\edomon b…\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559588466 c:\users\arnau\desktop\edomon b…\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559588466 c:\users\arnau\desktop\edomon b…\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon b…\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1522915894 source:c:\users\arnau\desktop\edomon b…\edomon b…\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522921400 c:\users\arnau\desktop\edomon b…\edomon b…\plataforma.h
+
+1522915894 c:\users\arnau\desktop\edomon b…\edomon b…\mario.h
+
+1522921542 source:c:\users\arnau\desktop\edomon b…\edomon b…\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1559469186 source:c:\users\arnau\desktop\edomon b…\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559588672 source:c:\users\arnau\desktop\edomon b…\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559469276 source:c:\users\arnau\desktop\edomon b…\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559588672 source:c:\users\arnau\desktop\edomon b…\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559470452 source:c:\users\arnau\desktop\edomon b…\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559588672 source:c:\users\arnau\desktop\edomon b…\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559470452 source:c:\users\arnau\desktop\edomon b…\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559667997 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\arnau\desktop\edomon b… - copia\edomon b…\punt2d.h
+
+1559667987 c:\users\arnau\desktop\edomon b… - copia\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\arnau\desktop\edomon b… - copia\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559585360 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559469026 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469008 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469012 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469030 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559668539 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+	<sstream>
+
+1559667987 c:\users\arnau\desktop\edomon b… - copia\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon b… - copia\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469046 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559667937 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - copia\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559668539 c:\users\arnau\desktop\edomon b… - copia\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559668539 c:\users\arnau\desktop\edomon b… - copia\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559668539 c:\users\arnau\desktop\edomon b… - copia\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon b… - copia\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1522915894 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522921400 c:\users\arnau\desktop\edomon b… - copia\edomon b…\plataforma.h
+
+1522915894 c:\users\arnau\desktop\edomon b… - copia\edomon b…\mario.h
+
+1522921542 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1559469186 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559668692 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559469276 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559668853 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559470452 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559668692 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559470452 source:c:\users\arnau\desktop\edomon b… - copia\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559674376 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\punt2d.h
+
+1559673073 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559585360 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559469026 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469008 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469012 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469030 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559674194 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+	<sstream>
+
+1559673073 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559469046 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1522915894 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522921400 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\plataforma.h
+
+1522915894 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\mario.h
+
+1522921542 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1559469186 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559470378 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559674194 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559674194 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559469276 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559674194 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559674194 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470452 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559674194 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559674194 c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559673073 source:c:\users\arnau\desktop\edomon b… - actualitzat - copia\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1559740819 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\punt2d.h
+
+1559673073 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559740404 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559734912 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559740883 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+	<sstream>
+
+1559673073 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559742396 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1559470378 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559674194 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559674194 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559674194 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1522915894 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522921400 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\plataforma.h
+
+1522915894 c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\mario.h
+
+1522921542 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1559734913 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559740139 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559734913 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559740139 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559470452 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559742513 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559470452 source:c:\users\roberto\desktop\edomon b… - actualitzat - copia\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559740819 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\punt2d.h
+
+1559673073 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559740404 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559734912 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559743633 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559740883 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+	<sstream>
+
+1559673073 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1522915894 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\mario.cpp
+	<vector>
+	"raylib.h"
+	"plataforma.h"
+	"mario.h"
+
+1522921400 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\plataforma.h
+
+1522915894 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\mario.h
+
+1522921542 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\plataforma.cpp
+	"raylib.h"
+	"plataforma.h"
+
+1559734913 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559740139 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559674194 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559734913 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559740139 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559674194 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470452 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559742513 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559674194 c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559743425 source:c:\users\roberto\desktop\edomon-actualitzat2.0\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1559740819 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\punt2d.h
+
+1559762609 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559740404 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559734912 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559743633 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559762279 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+	<sstream>
+
+1559673073 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559470378 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559762279 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559674194 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559734913 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559753439 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559674194 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470452 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559762279 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559674194 c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559762180 source:c:\users\arnau\desktop\edomon-actualitzat2.0\edomon-actualitzat2.0\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
+1559764454 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\animal.cpp
+	<vector>
+	"Punt2D.h"
+	"animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559468310 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\punt2d.h
+
+1559764250 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\animal.h
+	"Punt2D.h"
+	"raylib.h"
+	<vector>
+	<string>
+
+1559585360 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\atack.h
+	"raylib.h"
+	<cstdlib>
+	<string>
+	"Punt2D.h"
+
+1559740404 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\atack.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"atack.h"
+
+1559734912 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\bite.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bite.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\bite.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\bubble.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Bubble.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\bubble.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559743633 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\confution.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Confution.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\confution.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\flames.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Flames.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\flames.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559764454 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\flowery.cpp
+	<vector>
+	"Punt2D.h"
+	"Atack.h"
+	"Animal.h"
+	"Flowery.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Kick.h"
+	"Flames.h"
+	<sstream>
+
+1559764569 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\flowery.h
+	<vector>
+	"Animal.h"
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\tackle.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\scratch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\kick.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734912 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\kick.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Kick.h"
+
+1559469050 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\leafs.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Leafs.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\leafs.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559734913 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\punch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Punch.h"
+
+1559470378 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\punch.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559764454 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\roarsours.cpp
+	<vector>
+	"Punt2D.h"
+	"Roarsours.h"
+	"Atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Punch.h"
+	"Bite.h"
+
+1559764570 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\roarsours.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559734913 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\scratch.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Scratch.h"
+
+1559764454 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\snaflire.cpp
+	<vector>
+	"Punt2D.h"
+	"Snaflire.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Bite.h"
+	"Confution.h"
+	"Water.h"
+
+1559764570 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\snaflire.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\water.h
+	"Atack.h"
+	"raylib.h"
+	<cstdlib>
+
+1559470452 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\tackle.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Tackle.h"
+
+1559764454 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\tentber.cpp
+	<vector>
+	"Punt2D.h"
+	"Tentber.h"
+	"atack.h"
+	"raylib.h"
+	"Tackle.h"
+	"Scratch.h"
+	"Bubble.h"
+	"Leafs.h"
+
+1559764570 c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\tentber.h
+	"Animal.h"
+	<vector>
+	"atack.h"
+	"raylib.h"
+
+1559470452 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\water.cpp
+	"Punt2D.h"
+	<cstdlib>
+	"raylib.h"
+	"Water.h"
+
+1559768545 source:c:\users\roberto\desktop\edomon-actualitzat2.1\edomon-actualitzat2.0\edomon b…\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"Atack.h"
+	"Bite.h"
+	"Bubble.h"
+	"Confution.h"
+	"Flames.h"
+	"Flowery.h"
+	"Kick.h"
+	"Leafs.h"
+	"raylib.h"
+	"Punch.h"
+	"Roarsours.h"
+	"Scratch.h"
+	"Snaflire.h"
+	"Tackle.h"
+	"Tentber.h"
+	"Water.h"
+	"Punt2D.h"
+
